@@ -36,6 +36,8 @@
 ![](https://github.com/ShotDown123/TrashStock/blob/master/15.png)
 ## 9.请求合并，刚才修改的只是修改了你自己这边的一个备份，如果你想将你的修改更新到我这边，你需要点击，如下。同时你也可以通过颜色的不同来看到自己进行了那些修改    
 ![](https://github.com/ShotDown123/TrashStock/blob/master/16.png)
+![](https://github.com/ShotDown123/TrashStock/blob/master/18.png)
 ## 10.请求发出后，我在看到后会进行格式检查，然后将你的修改进行合并。之后你就会看到如下更改后的页面了，是不是很简单呢？你是不是跃跃欲试了呢？赶紧行动起来把。
 
 最后，如果你实在搞不明白如何操作，也可以按照第7点中的格式将你要添加的公司信息发到我上面的邮箱中，在我有时间时由我来将其添加到页面中去，但是还是希望各位老铁亲自动手试试，事实上我已经看到有老铁进行了Fork
+![](https://github.com/ShotDown123/TrashStock/blob/master/17.png)
