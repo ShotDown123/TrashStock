@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+##   A股垃圾股列表
+建立这个页面的目的是为了让各位老铁能够共享、编辑和整理市值风云扒过个A股垃圾股信息，这样老铁们在今后买股票时就可以避开这些垃圾了，也就会被少被割了。如果你也想对这份列表进行编辑请点击[editor on GitHub](https://github.com/ShotDown123/TrashStock/edit/master/index.md)
 
-You can use the [editor on GitHub](https://github.com/ShotDown123/TrashStock/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShotDown123/TrashStock/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+序号  | 公司名称 | 股票代码 | 坑爹事迹
+----- | -----   | ------   |-----
+00001 | 尔康制药 | SZ300267 | [强烈质疑尔康制药涉嫌严重财务舞弊：中国海关喊你来对账了!](https://xueqiu.com/5962548939/85244781)<br>[尔康制药销售藏惊人秘密：隐瞒与经销商关联关系](https://xueqiu.com/5962548939/86000495)
+00002 | 步森股份 | SZ002569 | [A股最生猛炒壳记：97倍杠杆，三任“职业养壳人”的血色纸牌屋！](https://xueqiu.com/5962548939/96685723)
+00003 | 赛摩电气 | SZ300466 | [并购狂人赛摩电气：它不是在重组，就是在重组的路上！](https://xueqiu.com/5962548939/96685516)
+00004 | *ST德力 | SZ002571 | [连续三年画大饼，三年无果终卖壳：*ST德力，你可以休息了！](https://xueqiu.com/5962548939/96685439)
+00005 | 瑞康医药 | SZ002589 | [史上最疯狂并表——瑞康医药“9天一并购”：宗师级120亿元应收！](https://xueqiu.com/5962548939/96610700)
+00005 | 瑞康医药 | SZ002589 | [史上最疯狂并表——瑞康医药“9天一并购”：宗师级120亿元应收！](https://xueqiu.com/5962548939/96610700)
