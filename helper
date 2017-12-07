@@ -4,6 +4,10 @@ __author__ = 'Rocky'
 import requests,cookielib,re,json,time
 from toolkit import Toolkit
 from lxml import etree
+import codecs
+import sys
+
+
 
 url='https://xueqiu.com/snowman/login'
 session = requests.session()
@@ -37,8 +41,13 @@ print maxPage
 print type(maxPage)
 maxPage=int(maxPage)
 index = 0
+host='https://xueqiu.com'
+cp_host = 'https://xueqiu.com/S/'
+save_data = 'index  | name | code | at'
+save_data = save_data + '\r\n' + '----- | ----- | ----- | -----'
+
 print type(maxPage)
-for i in range(1,maxPage+1):
+for i in range(1,maxPage-2):
     fav='https://xueqiu.com/favs?page=%d' %i
     collection=session.get(fav,headers=headers)
     fav_content= collection.text
@@ -51,48 +60,35 @@ for i in range(1,maxPage+1):
     #print new_result
     data=json.loads(new_result)
     use_data= data['list']
-    host='https://xueqiu.com'
-    company_host = 'https://xueqiu.com/S/'
     for i in use_data:
-        url=host+ i['target']
-        txt_content=session.get(url,headers=headers).text.encode("UTF-8")
-        filename=re.findall('<h1 class="article__bd__title">(.*)</h1><div class="article__bd__detail">',txt_content)
-        company = re.findall(r'\>\$(.*)\$\<', txt_content)
         index = index + 1
-        print "%04d" %(index),
-        print "|",
-        print"[",
-        if company:
-            company_code = re.findall(r'\((.*)\)', company[0])
-            company_addr = company_host + company_code[0]
-            print company[0],
-            print "](",
-            print company_addr,
-            print ")",
-        else:
-            print 'error_c',
-            print "](",
-            print 'error_a',
-            print ')',
-        print "|",
-        print"[",
-        print filename[0],
-        print "](",
-        print url,
-        print ")",
-        print "|",
-        if re.findall('造假', txt_content):
-            print u"财务",
-        elif re.findall('坐庄', txt_content):
-            print u"坐庄",
-        elif re.findall('舞弊', txt_content):
-            sd = re.findall('舞弊', txt_content)
-            if len(sd) > 1:
-                print u"财务",
-            else:
-                print u"割韭菜",
-        else:
-            print u"割韭菜",
-        print "|",
-        print "未知"
-        time.sleep(3)
+        at_addr = host + i['target']
+        print at_addr
+        try:
+            at_content = session.get(at_addr,headers=headers).text.encode("UTF-8")
+        except:
+            print 'lose'
+        at_name = re.findall('<h1 class="article__bd__title">(.*)</h1><div class="article__bd__detail">',at_content)
+        at_name[0] = at_name[0].replace('|','--')
+        cp_content = re.findall(r'\>\$(.*?)\$\<', at_content)
+        if len(cp_content) > 0:
+            cp_code = re.findall(r'\((.*)\)', cp_content[0])
+            cp_name = re.findall(r'(.*)\(', cp_content[0])
+        if len(cp_code) == 0:
+            cp_code = ['cc_none']
+        if len(cp_name) == 0:
+            cp_name = ['cn_none']
+        cp_addr = cp_host + cp_code[0]
+        #print cp_code[0],
+        #print cp_name[0]
+        #print at_name[0]
+
+        'index  | name | code | at'
+        save_data = save_data + '\r\n' + str(index).zfill(5) + ' | '+ cp_name[0]   + ' | [' + cp_code[0] + '](' + cp_addr.encode("UTF-8") + ')' + ' | [' + at_name[0] + '](' + at_addr.encode("UTF-8") + ')'
+        #print save_data
+        #save_data = save_data + '\r\n' + str(index).zfill(5) + ' | [' + at_name[0] + '](' + at_addr.encode("UTF-8") + ')'
+        time.sleep(1)
+#print save_data
+reload(sys) 
+sys.setdefaultencoding('utf-8')
+Toolkit.save2filecn('data', save_data)
