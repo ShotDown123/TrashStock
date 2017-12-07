@@ -63,26 +63,24 @@ for i in range(1,maxPage-2):
     for i in use_data:
         index = index + 1
         at_addr = host + i['target']
-        print at_addr
         try:
             at_content = session.get(at_addr,headers=headers).text.encode("UTF-8")
         except:
-            print 'lose'
+            time.sleep(1)
+            try:
+                at_content = session.get(at_addr,headers=headers).text.encode("UTF-8")
+            except:
+                print at_addr
         at_name = re.findall('<h1 class="article__bd__title">(.*)</h1><div class="article__bd__detail">',at_content)
         at_name[0] = at_name[0].replace('|','--')
         cp_content = re.findall(r'\>\$(.*?)\$\<', at_content)
+        cp_code = ['cd_none']
+        cp_name = ['nm_none']
         if len(cp_content) > 0:
             cp_code = re.findall(r'\((.*)\)', cp_content[0])
             cp_name = re.findall(r'(.*)\(', cp_content[0])
-        if len(cp_code) == 0:
-            cp_code = ['cc_none']
-        if len(cp_name) == 0:
-            cp_name = ['cn_none']
         cp_addr = cp_host + cp_code[0]
-        #print cp_code[0],
-        #print cp_name[0]
-        #print at_name[0]
-
+  
         'index  | name | code | at'
         save_data = save_data + '\r\n' + str(index).zfill(5) + ' | '+ cp_name[0]   + ' | [' + cp_code[0] + '](' + cp_addr.encode("UTF-8") + ')' + ' | [' + at_name[0] + '](' + at_addr.encode("UTF-8") + ')'
         #print save_data
