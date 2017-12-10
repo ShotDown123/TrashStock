@@ -6,12 +6,7 @@
 
 - 我们唾弃那些蹭热点、讲故事、弄虚作假的公司。
 
-有些公司似乎一生的使命就是为了配合利益集团进行割韭菜，股市中没有人会逼着你买某只股票，我们唯一要做的就是避开它们。这就是我
-
-们建立这个页面的原因，这个页面可以让所有进行协作编辑，如果你也想参与，请点击[参与]
-
-(https://github.com/ShotDown123/TrashStock/edit/master/index.md)。如果您不知道怎么参与，请点击[帮助]
-(https://github.com/ShotDown123/helper/blob/master/index.md) 。
+有些公司似乎一生的使命就是为了配合利益集团进行割韭菜，股市中没有人会逼着你买某只股票，我们唯一要做的就是避开它们。这就是我们建立这个页面的原因，这个页面可以让所有进行协作编辑，如果你也想参与，请点击[参与](https://github.com/ShotDown123/TrashStock/edit/master/index.md)。如果您不知道怎么参与，请点击[帮助](https://github.com/ShotDown123/helper/blob/master/index.md) 。
 
 序号 | 股票名称 | 股票代码 | 坑爹事迹
 ----- | ----- | ----- | -----
