@@ -7,6 +7,32 @@
 
 序号 | 股票名称 | 股票代码 | 坑爹事迹
 ----- | ----- | ----- | -----
+00379|文峰股份|[SH601010](https://xueqiu.com/S/SH601010)|[与徐翔一起割韭菜:图解徐翔案中的3个人和13家公司](http://datanews.caixin.com/2016-12-04/101022845.html)
+00378|万邦达|[SZ300055](https://xueqiu.com/S/SZ300055)|[与徐翔一起割韭菜:图解徐翔案中的3个人和13家公司](http://datanews.caixin.com/2016-12-04/101022845.html)
+00377|赛象科技|[SZ002337](https://xueqiu.com/S/SZ002337)|[与徐翔一起割韭菜:图解徐翔案中的3个人和13家公司](http://datanews.caixin.com/2016-12-04/101022845.html)
+00376|东方金钰|[SH600086](https://xueqiu.com/S/SH600086)|[与徐翔一起割韭菜:图解徐翔案中的3个人和13家公司](http://datanews.caixin.com/2016-12-04/101022845.html)
+00375|上海新梅|[SH600732](https://xueqiu.com/S/SH600732)|[与徐翔一起割韭菜:图解徐翔案中的3个人和13家公司](http://datanews.caixin.com/2016-12-04/101022845.html)
+00374|明牌珠宝|[SZ002574](https://xueqiu.com/S/SZ002574)|[与徐翔一起割韭菜:图解徐翔案中的3个人和13家公司](http://datanews.caixin.com/2016-12-04/101022845.html)
+00373|美邦服饰|[SZ002269](https://xueqiu.com/S/SZ002269)|[与徐翔一起割韭菜:图解徐翔案中的3个人和13家公司](http://datanews.caixin.com/2016-12-04/101022845.html)
+00372|华丽家族|[SH600503](https://xueqiu.com/S/SH600503)|[与徐翔一起割韭菜:图解徐翔案中的3个人和13家公司](http://datanews.caixin.com/2016-12-04/101022845.html)
+00371|乐通股份|[SZ002319](https://xueqiu.com/S/SZ002319)|[与徐翔一起割韭菜:图解徐翔案中的3个人和13家公司](http://datanews.caixin.com/2016-12-04/101022845.html)
+00370|金科股份|[SZ000656](https://xueqiu.com/S/SZ000656)|[与徐翔一起割韭菜:图解徐翔案中的3个人和13家公司](http://datanews.caixin.com/2016-12-04/101022845.html)
+00369|向日葵|[SZ300111](https://xueqiu.com/S/SZ300111)|[与徐翔一起割韭菜:图解徐翔案中的3个人和13家公司](http://datanews.caixin.com/2016-12-04/101022845.html)
+00368|中弘股份|[SZ000979](https://xueqiu.com/S/SZ000979)|[与徐翔一起割韭菜:图解徐翔案中的3个人和13家公司](http://datanews.caixin.com/2016-12-04/101022845.html)
+00367|梦舟股份|[SH600255](https://xueqiu.com/S/SH600255)|[与徐翔一起割韭菜:图解徐翔案中的3个人和13家公司](http://datanews.caixin.com/2016-12-04/101022845.html)
+00367|好当家|[SH600467](https://xueqiu.com/S/SH600467)|[聚焦315： 2016年13家财务造假公司遭行政处罚](http://stock.qq.com/a/20170315/014553.htm)
+00366|福建金森|[SZ002679](https://xueqiu.com/S/SZ002679)|[聚焦315： 2016年13家财务造假公司遭行政处罚](http://stock.qq.com/a/20170315/014553.htm)
+00365|现代农装|[OC430010](https://xueqiu.com/S/OC430010)|[现代农装虚增利润信披违规罚40万 董事长李树君等4人遭警告](http://stock.hexun.com/2016-11-11/186854542.html)
+00364|江苏国信|[SZ002608](https://xueqiu.com/S/SZ002608)|[现代农装虚增利润信披违规罚40万 董事长李树君等4人遭警告](http://stock.hexun.com/2016-11-11/186854542.html)
+00363|北大荒|[SH600598](https://xueqiu.com/S/SH600598)|[北大荒六年前虚增利润吃罚单 或为业绩指标所迫](http://finance.cnr.cn/gundong/20160906/t20160906_523116151.shtml)
+00362|雅百特|[SZ002323](https://xueqiu.com/S/SZ002323)|[雅百特虚增利润2.6亿遭顶格处罚 被罚3天前董事长仍撒谎](http://finance.qq.com/a/20170515/007093.htm)
+00361|鞍重股份|[SZ002667](https://xueqiu.com/S/SZ002667)|[证监会亮剑九好集团“忽悠式”重组](https://xueqiu.com/3502728586/82401347)
+00360|皖江物流|[SH600575](https://xueqiu.com/S/SH600575)|[皖江物流百亿债务黑洞：祸起斯迪尔两端融资？](http://new.qq.com/cmsn/20140926008792)
+00359|大有能源|[600403](https://xueqiu.com/S/600403)|[大有能源采矿权不翼而飞 低估无形资产涉嫌做假账](http://finance.sina.com.cn/chanjing/gsnews/20130910/104416717609.shtml)
+00358|上海物贸|[SH600822](https://xueqiu.com/S/SH600822)|[33万吨铬矿竟然不翼而飞](http://new.qq.com/cmsn/20151202006288)
+00357|亚太实业|[SZ000691](https://xueqiu.com/S/SZ000691)|[亚太实业爆长期造假案 证监会罚单揭秘利润操控术](http://finance.eastmoney.com/news/1349,20141001430164154.html)
+00356|航天通信|[SH600677](https://xueqiu.com/S/SH600677)|[各种造假方法都试遍了 航天通信造假胆子越来越大](http://new.qq.com/cmsn/20160225010280)
+00355|南纺股份|[SH600250](https://xueqiu.com/S/SH600250)|[造假案引出重重黑幕南纺股份前董事长已判刑13年](http://news.163.com/14/0522/03/9SQOCVQ200014Q4P.html)
 00354|国民技术|[SZ300007](https://xueqiu.com/S/SZ300007)|[卷款4.5亿跑路?前海旗隆人去楼空 国民技术要哭瞎](http://money.163.com/17/1130/07/D4FMBC2C0025817I.html)
 00353|巴士在线|[SZ002188](https://xueqiu.com/S/SZ002188)|[又见A股奇葩公告：巴士在线称法人失联，致并购夭折](http://www.p5w.net/stock/news/gsxw/201712/t20171211_2041944.htm)
 00352|坚瑞沃能|[SZ300116](https://xueqiu.com/S/SZ300116)|[三问坚瑞沃能：旧疑未解，新问浮现](https://xueqiu.com/5942134292/87573233)<br>[坚瑞沃能千倍业绩猫腻：关联方操纵订单被指骗子](https://xueqiu.com/5942134292/87203051)<br>[赛纬电子IPO折翼 与坚瑞沃能交易模式存重大疑点](https://xueqiu.com/5942134292/92542363)
@@ -368,7 +394,7 @@
 -----|-----|-----|-----
 数量|99|245|6
 
-# 统计数据--每个设计到的文章的数量分布
+# 统计数据--每个公司涉及到的文章的数量分布
 
 文章数量|1|2|3|4|5|>5
 -----|-----|-----|-----|-----|-----|-----
