@@ -28,7 +28,7 @@
 00362|雅百特|[SZ002323](https://xueqiu.com/S/SZ002323)|[雅百特虚增利润2.6亿遭顶格处罚 被罚3天前董事长仍撒谎](http://finance.qq.com/a/20170515/007093.htm)
 00361|鞍重股份|[SZ002667](https://xueqiu.com/S/SZ002667)|[证监会亮剑九好集团“忽悠式”重组](https://xueqiu.com/3502728586/82401347)
 00360|皖江物流|[SH600575](https://xueqiu.com/S/SH600575)|[皖江物流百亿债务黑洞：祸起斯迪尔两端融资？](http://new.qq.com/cmsn/20140926008792)
-00359|大有能源|[600403](https://xueqiu.com/S/600403)|[大有能源采矿权不翼而飞 低估无形资产涉嫌做假账](http://finance.sina.com.cn/chanjing/gsnews/20130910/104416717609.shtml)
+00359|大有能源|[SH600403](https://xueqiu.com/S/SH600403)|[大有能源采矿权不翼而飞 低估无形资产涉嫌做假账](http://finance.sina.com.cn/chanjing/gsnews/20130910/104416717609.shtml)
 00358|上海物贸|[SH600822](https://xueqiu.com/S/SH600822)|[33万吨铬矿竟然不翼而飞](http://new.qq.com/cmsn/20151202006288)
 00357|亚太实业|[SZ000691](https://xueqiu.com/S/SZ000691)|[亚太实业爆长期造假案 证监会罚单揭秘利润操控术](http://finance.eastmoney.com/news/1349,20141001430164154.html)
 00356|航天通信|[SH600677](https://xueqiu.com/S/SH600677)|[各种造假方法都试遍了 航天通信造假胆子越来越大](http://new.qq.com/cmsn/20160225010280)
